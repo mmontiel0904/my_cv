@@ -1,0 +1,13 @@
+{
+	"home": {
+		"hero-btn-1": "Mi currículum",
+		"message-pt1": "a mi sitio web personal",
+		"welcome-message": "Sumérgete en mi mundo profesional y descubre el viaje, las habilidades y las historias que definen mi carrera. ¡Emocionado/a de conectarme contigo aquí!",
+		"welcome-tittle": "¡Bienvenid@!"
+	},
+	"nav": {
+		"blog": "Blog",
+		"home": "Inicio",
+		"resume": "Currículum"
+	}
+}

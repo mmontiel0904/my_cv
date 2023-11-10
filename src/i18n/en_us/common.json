@@ -1,0 +1,13 @@
+{
+	"home": {
+		"hero-btn-1": "My resume",
+		"message-pt1": "to my persnal web site",
+		"welcome-message": "Delve into my professional world and discover the journey, skills, and stories that define my career. Excited to connect with you here!",
+		"welcome-tittle": "Welcome!"
+	},
+	"nav": {
+		"blog": "Blog",
+		"home": "Home",
+		"resume": "Resume"
+	}
+}
